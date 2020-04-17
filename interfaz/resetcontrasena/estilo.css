@@ -1,0 +1,19 @@
+body{
+  background-image: url(../../diseño/imagenes/fondo2.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.contenedor{
+  padding: 3% 7% 0 7%;
+}
+#titulo{
+  color: white;
+}
+#checkes{
+  text-align: center;
+}

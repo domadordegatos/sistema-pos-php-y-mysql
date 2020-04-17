@@ -1,0 +1,27 @@
+body{
+  background-image: url(../../../diseño/imagenes/fondo2.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.contenedor{
+  padding: 3% 10% 0 10%;
+}
+#boton{
+  text-align: right;
+}
+#botonn{
+  padding: 0,2% 8% 0,2% 8%;
+}
+.text-muted{
+  text-align: right;
+  padding-top: 1%;
+  padding-bottom: 5%;
+}.titulo{
+  text-align: right;
+  padding-bottom: 3%;
+}

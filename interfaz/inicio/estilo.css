@@ -1,0 +1,24 @@
+#total{
+  text-align: center;
+  width: 100%;
+  padding: 2% 10% 10% 10%;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+h1{
+  padding-bottom: 5%;
+}
+.btn-group{
+  padding: 5% 5% 5% 5%;
+  width: 30%;
+  height: 50%;
+}
+body{
+  width: 100%;
+  background-image: url(../../diseño/imagenes/fondo2.jpg);
+}
+.login{
+  width: 8%;
+}

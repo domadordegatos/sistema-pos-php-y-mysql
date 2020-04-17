@@ -1,0 +1,50 @@
+body{
+  background-image: url(../../../diseño/imagenes/fondo2.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.contenedor{
+  padding: 2% 7% 0 7%;
+}
+#boton{
+  text-align: right;
+}
+#botonn{
+  padding: 0,2% 8% 0,2% 8%;
+}
+.text-muted{
+  text-align: right;
+  padding-top: 1%;
+  padding-bottom: 5%;
+}.titulo{
+  text-align: right;
+  padding-bottom: 1%;
+}
+.dosopciones{
+  text-align: center;
+  display: inline-flex;
+
+}
+.derecha{
+ width: 40%;
+ padding-left: 25%;
+}
+#izquierda{
+  width: 50%;
+}
+table{
+  font-size: 15px;
+}
+.linea{
+  display:inline-block;
+  padding-bottom: 5%;
+}#cierre{
+  padding: 0 5% 0 5%;
+}.butons{
+  display: flex;
+}
